@@ -4,7 +4,7 @@ export default class Example extends Component {
 		return 'saravyas';
 	}
 	temp(name){
-		return 'gomal'
+		return 'gomal' +name;
 	}
 	render(){
 		const i=1;
