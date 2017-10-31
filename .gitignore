@@ -1,0 +1,8 @@
+# removing nodemodules
+node_modules
+
+# ignore all logs
+*.log
+
+#server side rendering
+app/client.min.js
